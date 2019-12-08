@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1,(Lower Bitrate) BBC 5live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_five_live.m3u8
+
+#EXTINF:-1,bbc
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-p.m3u8
+
+#EXTINF:-1,BBC 4
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1,BBC Arabic
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup
+
+#EXTINF:-1,BBC Arabic News TV
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8
+
+#EXTINF:-1,BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+
+#EXTINF:-1,BBC Bangla
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-benga
+
+#EXTINF:-1,BBC Coventry & Warwickshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwmcandw_mf_p
+
+#EXTINF:-1,BBC Essex
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_essex/format/pls.pls
+
+#EXTINF:-1,BBC Hereford & Worcester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhandw_mf_p
+
+#EXTINF:-1,BBC HINDI NEWS
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup
+
+#EXTINF:-1,BBC Newcastle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnewc_mf_p
+
+#EXTINF:-1,BBC News TV
+http://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+
+#EXTINF:-1,BBC One TV
+http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BBC Persian News TV
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-p.m3u8
+
+#EXTINF:-1,BBC Punjab
+http://5.9.66.201:8484/;stream.mp3
+
+#EXTINF:-1,BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+
+#EXTINF:-1,BBC Radio 1
+https://www.redringtones.com/wp-content/uploads/2018/08/vintage-alarm-clock.mp3
+
+#EXTINF:-1,BBC Radio 1 (LQ)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_one.m3u8
+
+#EXTINF:-1,BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+
+#EXTINF:-1,BBC Radio 1Xtra (HQ)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1,BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+
+#EXTINF:-1,BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+
+#EXTINF:-1,BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+
+#EXTINF:-1,BBC Radio 3
+http://www.surfmusik.de/m3u/station/bbc-radio-3,1945.m3u
+
+#EXTINF:-1,BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+#EXTINF:-1,BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+#EXTINF:-1,BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+
+#EXTINF:-1,BBC Radio 4 LW
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_radio_fourlw.m3u8
+
+#EXTINF:-1,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+
+#EXTINF:-1,BBC Radio 5 Live Sports Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+
+#EXTINF:-1,BBC Radio 5 Live Sports Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+
+#EXTINF:-1,BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+
+#EXTINF:-1,BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+
+#EXTINF:-1,BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+
+#EXTINF:-1,BBC Radio Berkshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrberk_mf_p?s=1471554391&e=1471568791&h=04aa889b5bd9343352199a6afe937150
+
+#EXTINF:-1,BBC Radio Bristol
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrbris_mf_p
+
+#EXTINF:-1,BBC Radio Cambridgeshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcambs_mf_p
+
+#EXTINF:-1,BBC Radio Cornwall
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcorn_mf_p
+
+#EXTINF:-1,BBC Radio Cumbria
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcumbria_mf_p
+
+#EXTINF:-1,BBC Radio Cymru
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+
+#EXTINF:-1,BBC Radio Cymru 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru2_mf_p
+
+#EXTINF:-1,BBC Radio Derby
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrderby_mf_p
+
+#EXTINF:-1,BBC Radio Devon
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p
+
+#EXTINF:-1,BBC RADIO FIVE LIVE UK FEED
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_med/llnw/bbc_radio_five_live.m3u8
+
+#EXTINF:-1,BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+
+#EXTINF:-1,BBC Radio Gloucestershire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrgloucs_mf_p
+
+#EXTINF:-1,BBC Radio Guernsey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrguern_mf_p
+
+#EXTINF:-1,BBC Radio Humberside
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhumber_mf_p
+
+#EXTINF:-1,BBC Radio Jersey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrjersey_mf_p
+
+#EXTINF:-1,BBC Radio Kent
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrkent_mf_p
+
+#EXTINF:-1,BBC Radio Lancashire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p?
+
+#EXTINF:-1,BBC Radio Leeds
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleeds_mf_p
+
+#EXTINF:-1,BBC Radio Leicester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleics_mf_p
+
+#EXTINF:-1,BBC Radio Lincolnshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlincs_mf_p
+
+#EXTINF:-1,BBC Radio London 94.9 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p
+
+#EXTINF:-1,BBC Radio Manchester
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p
+
+#EXTINF:-1,BBC Radio Merseyside
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_p
+
+#EXTINF:-1,BBC Radio nan Gàidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+
+#EXTINF:-1,BBC Radio Norfolk
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnorfolk_mf_p
+
+#EXTINF:-1,BBC Radio Northampton
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnthhnts_mf_p
+
+#EXTINF:-1,BBC Radio Nottingham
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnotts_mf_p
+
+#EXTINF:-1,BBC Radio Oxford
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lroxford_mf_p
+
+#EXTINF:-1,BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+
+#EXTINF:-1,BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+
+#EXTINF:-1,BBC Radio Sheffield
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsheff_mf_p
+
+#EXTINF:-1,BBC Radio Shropshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrshrops_mf_p
+
+#EXTINF:-1,BBC Radio Solent
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsolent_mf_p
+
+#EXTINF:-1,BBC Radio Stoke
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrstoke_mf_p
+
+#EXTINF:-1,BBC Radio Suffolk
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsuffolk_mf_p
+
+#EXTINF:-1,BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+
+#EXTINF:-1,BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+
+#EXTINF:-1,BBC Radio York
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lryork_mf_p
+
+#EXTINF:-1,BBC Somerset
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsomer_mf_p
+
+#EXTINF:-1,BBC Surrey
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsurrey_mf_p
+
+#EXTINF:-1,BBC Sussex
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsussex_mf_p
+
+#EXTINF:-1,BBC Tees
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrtees_mf_p
+
+#EXTINF:-1,BBC Three Counties Radio
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lr3cr_mf_p
+
+#EXTINF:-1,BBC Two TV
+http://mysisli.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BBC URDU NEWS
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-urdua_backup
+
+#EXTINF:-1,BBC Wiltshire
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwilts_mf_p
+
+#EXTINF:-1,BBC WM 95.6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwm_mf_p
+
+#EXTINF:-1,BBC World
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
+#EXTINF:-1,BBC World News TV
+http://ott-cdn.ucom.am/s24/04.m3u8
+
+#EXTINF:-1,BBC World News TV
+http://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BBC World News TV
+http://tvvtvv.com/plus/bbcnew.m3u8
+
+#EXTINF:-1,bbc world service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
+
+#EXTINF:-1,BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/llnw/bbc_world_service.m3u8
+
+#EXTINF:-1,BBC World Service (AAC)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/llnw/bbc_world_service.m3u8
+
+#EXTINF:-1,BBC World Service Americas
+http://sc6.vie.llnw.net:80/stream/bbcwssc_mp1_ws-ename
+
+#EXTINF:-1,BBC World Service for Africa
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-enafw
+
+#EXTINF:-1,BBC World Service South Asia
+http://sc6.vie.llnw.net:80/stream/bbcwssc_mp1_ws-enase
+
+#EXTINF:-1,BBC World Service UK
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
+#EXTINF:-1,BBC World Service UK Stream
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+
+#EXTINF:-1,KTTZ-HD3 "Texas Tech Public Media "BBC World Service" Lubbock, TX
+http://playerservices.streamtheworld.com/m3u/KTTZHD3.m3u
+
+#EXTINF:-1,KUER 90.1 HD2 Salt Lake City, UT (BBC World Service) [high]
+http://audio.kuer.org:8000/kuer2high
+
+#EXTINF:-1,KUER 90.1 HD2 Salt Lake City, UT (BBC World Service) [low]
+http://audio.kuer.org:8000/kuer2low
+
+#EXTINF:-1,Sony BBC Earth TV
+http://123.249.76.157:10018/bysid/73
+
+#EXTINF:-1,WBBC 93.5 "Bobcat Country Radio" Blackstone, VA
+http://crystalout.surfernetwork.com:8001/WBBC_MP3
+
+#EXTINF:-1,WRVO-3 BBC World Service Stream - Oswego, NY
+http://playerservices.streamtheworld.com/m3u/WRVOHD3.m3u
+

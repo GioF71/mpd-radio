@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:1,Radio Italiane
+#EXTINF:0,RTL
+http://shoutcast.rtl.it:3010/

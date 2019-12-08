@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,1.FM - Otto's Classical Music Radio
+http://185.33.22.15:11077/
+
+#EXTINF:-1,BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+
+#EXTINF:-1,Canal Jazz
+http://radiart.eu:10024/stream
+
+#EXTINF:-1,Chill Out Zone
+http://air.chillout.zone:8000/radio
+
+#EXTINF:-1,Coastal Sound Global Community Radio - Skegness
+http://188.165.192.5:8497/stream
+
+#EXTINF:-1,Dala FM 100.2
+http://95.56.234.40:8080/DALA_320
+
+#EXTINF:-1,Dance Radio
+http://ice.actve.net/dance-radio320.mp3
+
+#EXTINF:-1,Davide of MIMIC
+http://uk3.internet-radio.com:8060/stream
+
+#EXTINF:-1,Digital Impulse - Ambient Nature Sounds
+http://orion.shoutca.st:8157/stream
+
+#EXTINF:-1,Digital Impulse - Christmas Channel
+http://orion.shoutca.st:8982/stream
+
+#EXTINF:-1,Digital Impulse - Classical Channel
+http://orion.shoutca.st:8978/stream
+
+#EXTINF:-1,Digital Impulse - Jazz Channel
+http://orion.shoutca.st/tunein/asxjyzz.pls
+
+#EXTINF:-1,Free FM Berlin
+http://pollux.shoutca.st:8968/
+
+#EXTINF:-1,Hi On Line Classical Radio
+http://82.94.166.107:8088/
+
+#EXTINF:-1,Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/
+
+#EXTINF:-1,Hi On Line Latin Radio
+http://mediaserv33.live-streams.nl:8034
+
+#EXTINF:-1,Hi On Line Latin Radio
+http://mediaserv33.live-streams.nl:8034
+
+#EXTINF:-1,Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/live
+
+#EXTINF:-1,Hi On Line World Radio
+http://mediaserv38.live-streams.nl:8027/live
+
+#EXTINF:-1,Humor FM Kazakhstan 102 FM
+http://r102.dynu.com:8000/stream.mp3
+
+#EXTINF:-1,i-turn radio
+http://live.i-turnradio.nl:80/live
+
+#EXTINF:-1,Isla Negra
+http://66.228.60.216:2199/tunein/rinshoutcast-stream.pls
+
+#EXTINF:-1,Jazz Lounge
+http://eu8.fastcast4u.com:5068/;
+
+#EXTINF:-1,KUPS 90.1 University of Puget Sound - Tacoma, WA
+http://stream.kups.net/
+
+#EXTINF:-1,Lapfox Radio
+https://lapfoxradio.com/lapfox_radio.pls
+
+#EXTINF:-1,Linn Classical
+http://89.16.185.174:8004/stream
+
+#EXTINF:-1,Linn Jazz
+http://89.16.185.174:8000/stream
+
+#EXTINF:-1,Linn Radio
+http://radio.linnrecords.com/cast/tunein.php/linnradio/playlist.pls
+
+#EXTINF:-1,McIntosh Labs Radio
+http://ccice.streamguys.com:80/mcintosh_master_320.mp3
+
+#EXTINF:-1,Mi-Soul
+http://50.7.71.219:7504/stream
+
+#EXTINF:-1,Muzikamatrix
+http://37.59.28.208:8857/;stream/1
+
+#EXTINF:-1,Nautic Radio Groningen
+http://stream.nauticradio.net:14260/
+
+#EXTINF:-1,Planet Ambi HD
+http://www.planetambi.com/tunein/planetambi.pls
+
+#EXTINF:-1,Positively Baroque [Europe stream]
+http://www.positivelybaroque.com/pb320_eu.pls
+
+#EXTINF:-1,Radio Active
+http://radio-active.net:8000/active
+
+#EXTINF:-1,RetroSynth FM
+http://144.217.203.184:9448
+
+#EXTINF:-1,Rondo Classic - Klasu
+http://stream.iradio.fi:8000/klasu-hi.mp3
+
+#EXTINF:-1,Rondo Classic - Klasu Pro
+http://stream.iradio.fi:8000/klasupro-hi.mp3
+
+#EXTINF:-1,Rondo Classic - Viva Classica
+http://rondo.iradio.fi:8000/viva-hi.mp3
+
+#EXTINF:-1,Soulconnexion Radio
+http://199.180.75.74/stream/1/
+
